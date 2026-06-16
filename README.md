@@ -1,3 +1,5 @@
+한국어 | [English](README.en.md)
+
 # RoIFuzz — 보안 정책을 켠 상태에서 돌리는 ROS 2 IDL 퍼저
 
 ROS 2 로봇 시스템을 테스트하는 퍼저입니다. 보통 퍼저와 다른 점은 SROS 2 보안 정책을 강제한
